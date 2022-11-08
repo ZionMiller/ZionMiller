@@ -1,9 +1,13 @@
-👋 Hi, my name is Zion Miller. Welcome to my page! 
+## 👋 Hi, my name is Zion Miller. Welcome to my page! 
 
-👀 I'm currently hunting for full-stack engineering roles 
+* 🧬 I’m currently working on BioBreak, a biotech stock data visualization tool
 
-🎉 I recently graduated from Flatiron Bootcamp
+* 👀 I'm also hunting for full-stack engineering roles 
 
-🏄‍♂️ When I'm not coding, I'm surfing
+* 🎉 I recently graduated from Flatiron Bootcamp
 
-⚡ Fun fact: I was a professionally ranked downhill skateboard racer growing up
+* 🏄‍♂️ When I'm not coding, I'm surfing
+
+* ⚡ Fun fact: I was a professionally ranked downhill skateboard racer growing up
+
+[🧑‍💻 portfolio](https://zion-miller.com/) [📝 blog](https://medium.com/@zionmiller) 

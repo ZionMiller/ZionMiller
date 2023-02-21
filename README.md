@@ -2,7 +2,7 @@
 
 * 🧬 I’m currently working on BioBreak, a biotech stock data visualization tool
 
-* 👀 I'm also hunting for full-stack engineering roles 
+* 👀 I'm also hunting for software engineering roles (remote or LA area)
 
 * 🎉 I recently graduated from Flatiron Bootcamp
 

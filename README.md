@@ -1,10 +1,10 @@
 ## 👋 Hi, my name is Zion Miller. Welcome to my page! 
 
-* 🧬 I’m currently working on BioBreak, a biotech stock data visualization tool
+* 🧑‍💻 I'm currently the Software Engineering Team Lead @ involve.ai
 
-* 👀 I'm also hunting for software engineering roles (remote or LA area)
+* 🧬 My current side project is BioBreak, a biotech stock data visualization tool
 
-* 🎉 I recently graduated from Flatiron Bootcamp
+* 👌 I prefer Backend and often lean towards Python, but like everyone these days, often find myself picking up Front End JavaScript (& accompanying libraries) tickets
 
 * 🏄‍♂️ When I'm not coding, I'm surfing
 

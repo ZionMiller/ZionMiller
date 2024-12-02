@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Zion Miller. Welcome to my page! 
 
-* 🧑‍💻 I'm currently a Software Engineere @ involve.ai
+* 🧑‍💻 I'm currently a Software Engineere @ Google
 
 * 🧬 My current side project is BioBreak, a biotech stock data visualization tool
 

@@ -1,7 +1,5 @@
 ## 👋 Hi, my name is Zion Miller. Welcome to my page! 
 
-* 🧑‍💻 I'm currently a Software Engineere @ Google
-
 * 🧬 My current side project is BioBreak, a biotech stock data visualization tool
 
 * 👌 I prefer Backend and often lean towards Python, but like everyone these days, often find myself picking up Front End JavaScript (& accompanying libraries) tickets
